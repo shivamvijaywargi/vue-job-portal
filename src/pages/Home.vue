@@ -30,7 +30,7 @@ export default {
   data() {
     return {
       vacancies,
-      isAdmin: false,
+      isAdmin: true,
     };
   },
   methods: {
